@@ -1,0 +1,44 @@
+{
+    "myBudget": [
+    {
+        "title": "Eat out",
+        "budget": 50
+    },
+    {
+        "title": "Rent",
+        "budget": 630
+    },
+    {
+        "title": "Grocery",
+        "budget": 100
+    },
+    {
+        "title": "Car Payment",
+        "budget": 250
+    },
+    {
+        "title": "Insurance",
+        "budget": 375
+    },
+    {
+        "title": "Phone",
+        "budget": 60
+    },
+    {
+        "title": "Gas",
+        "budget": 35
+    },
+    {
+        "title": "Internet",
+        "budget": 256
+    },
+    {
+        "title": "Electrical",
+        "budget": 150
+    },
+    {
+        "title": "Cable",
+        "budget": 110
+    }
+    ]
+}

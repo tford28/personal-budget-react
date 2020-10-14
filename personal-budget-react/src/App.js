@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.scss';
 
 
 import {
@@ -14,7 +15,7 @@ import Footer from './Footer/Footer';
 import AboutPage from './AboutPage/AboutPage';
 import LoginPage from './LoginPage/LoginPage';
 
-function App() {
+const App = () => {
   return (
     <Router>
       <Menu/>

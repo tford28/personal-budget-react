@@ -6,7 +6,7 @@ import {
 
 function Menu() {
     return (
-        <nav>
+        <nav className="menu">
             <ul>
                 <li><Link to = "/">Homepage</Link></li>
                 <li><Link to = "./about">About</Link></li>
